@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Новости от бота</title>
+    <link>https://shubkino.github.io/rss-feed</link>
+    <description>Тестовая лента</description>
+    <lastBuildDate>Sat, 04 May 2025 18:00:00 +0300</lastBuildDate>
+  </channel>
+</rss>
